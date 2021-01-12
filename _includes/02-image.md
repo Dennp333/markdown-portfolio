@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Cat's Schrodinger](https://s3.amazonaws.com/theoatmeal-img/comics/cats_schrodinger/cats_schrodinger.png)
